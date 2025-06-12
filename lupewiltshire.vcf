@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Wiltshire;Lupe;;;
+FN:Lupe Wiltshire
+ORG:Fusion Church
+ADR;TYPE=WORK:18 Westage Business Center Dr, Fishkill, NY 12524
+TITLE:Data Analyst & Office Supporter
+TEL;TYPE=CELL:845-238-7619
+TEL;TYPE=WORK:845-214-6002
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:Lupe@fusionchurchny.com
+URL;TYPE=Digital Business Card:https://github.com/FusionBusinessCards/LWI_Card
+URL:fusionchurchny.com
+URL;TYPE=Website:fusionchurchny.com
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100512964
+END:VCARD
